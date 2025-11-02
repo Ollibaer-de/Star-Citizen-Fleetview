@@ -1,0 +1,1 @@
+# FleetView - Basis\n\nEin minimales React + Three.js Tool, um Star Citizen Flotten als 3D-Boxen anzuzeigen.\n\n## Nutzung\n1. `npm install`\n2. `npm run dev`\n3. Öffne `http://localhost:5173`\n
